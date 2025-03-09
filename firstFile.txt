@@ -5,6 +5,6 @@ Infinite
 V
 And
 Trivial
-I
-O
-N
+In
+Order
+New
