@@ -2,8 +2,8 @@ T
 E
 C
 H
-N
-O
+No
+Order
 L
 O
 G
